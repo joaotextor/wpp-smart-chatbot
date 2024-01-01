@@ -1,0 +1,8 @@
+dist
+node_modules
+easy-key-generator*
+test.js
+.prettierignore
+*.js
+*.yml
+*.yaml
